@@ -1,28 +1,67 @@
-# Developer Portfolio
+# Gustavo De Pieri - Portfolio
 
-A modern, responsive developer portfolio website built with Next.js.
+Welcome to my personal portfolio website! This project showcases my skills, experience, and projects as a Full Stack Developer.
 
-## Features
+## 🚀 Live Demo
 
-- Modern hero section with introduction
-- Projects showcase with cards
-- GitHub and LinkedIn buttons in navigation
-- Minimalist footer
-- Clean, modern design with smooth animations
-- Fully responsive layout
+Visit my portfolio at: https://meu-portifolio-lovat-sigma.vercel.app/
 
-## Tech Stack
+## 💻 Tech Stack
 
-- Next.js
-- React
-- TypeScript
-- CSS Modules
+- **Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: CSS Modules
+- **Deployment**: [Your deployment platform]
 
+## ✨ Features
 
-## Customization
+- 🎯 Modern and responsive design
+- 👨‍💻 Detailed project showcase
+- 📱 Mobile-first approach
+- 🌟 Smooth animations and transitions
+- 📧 Contact form
+- 🎨 Custom styling with CSS Modules
 
-- Replace the sample project data in `components/Projects.tsx`
-- Update your personal information in `components/Hero.tsx`
-- Add your social media links in `components/Navbar.tsx` and `components/Footer.tsx`
-- Customize colors in `styles/globals.css`
+## 🛠️ Projects Showcased
+
+1. **Automation Workflows**
+   - Built with n8n and Power Automate
+   - Process optimization and client onboarding automation
+
+2. **This Portfolio**
+   - Built with Next.js and TypeScript
+   - Responsive design and modern UI/UX
+
+3. **Go Backend API**
+   - RESTful API with clean architecture
+   - Efficient database operations
+
+## 🏃‍♂️ Running Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/GustavoDePieri/meuPortifolio.git
+
+# Navigate to the project
+cd meuPortifolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+## 📫 Contact
+
+- LinkedIn: [Gustavo De Pieri](https://linkedin.com/in/gustavodepieri)
+- GitHub: [GustavoDePieri](https://github.com/gustavodepieri)
+- Email: gustdepieri@gmail.com
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+Built with ❤️ by Gustavo De Pieri
 
