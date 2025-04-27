@@ -2,27 +2,27 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects as a Full Stack Developer.
 
-## 🚀 Live Demo
+## Live Demo
 
 Visit my portfolio at: https://meu-portifolio-lovat-sigma.vercel.app/
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js
 - **Language**: TypeScript
 - **Styling**: CSS Modules
-- **Deployment**: [Your deployment platform]
+- **Deployment**: Vercel
 
-## ✨ Features
+## Features
 
-- 🎯 Modern and responsive design
-- 👨‍💻 Detailed project showcase
-- 📱 Mobile-first approach
-- 🌟 Smooth animations and transitions
-- 📧 Contact form
-- 🎨 Custom styling with CSS Modules
+- Modern and responsive design
+- Detailed project showcase
+- Mobile-first approach
+- Smooth animations and transitions
+- Contact form
+- Custom styling with CSS Modules
 
-## 🛠️ Projects Showcased
+## Projects Showcased
 
 1. **Automation Workflows**
    - Built with n8n and Power Automate
@@ -36,7 +36,7 @@ Visit my portfolio at: https://meu-portifolio-lovat-sigma.vercel.app/
    - RESTful API with clean architecture
    - Efficient database operations
 
-## 🏃‍♂️ Running Locally
+## Running Locally
 
 ```bash
 # Clone the repository
@@ -52,13 +52,13 @@ npm install
 npm run dev
 ```
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [Gustavo De Pieri](https://linkedin.com/in/gustavodepieri)
 - GitHub: [GustavoDePieri](https://github.com/gustavodepieri)
 - Email: gustdepieri@gmail.com
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
