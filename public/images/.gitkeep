@@ -1,0 +1,5 @@
+# This file ensures the images directory is kept in git
+# Add your project images here with the following names:
+# - automation.jpg
+# - portfolio.jpg
+# - golang.jpg 
