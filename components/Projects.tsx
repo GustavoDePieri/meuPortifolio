@@ -28,7 +28,7 @@ const projectsData = [
     image: '/projects/golang.jpg',
     tags: ['Go', 'REST API', 'Clean Architecture'],
     liveLink: '#',
-    githubLink: 'https://github.com/gustavodepieri',
+    githubLink: 'https://github.com/GustavoDePieri/goBackendAPI',
   },
 ];
 
